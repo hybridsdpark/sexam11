@@ -2,4 +2,5 @@
 
 
 
-required.Dept.deprno=\uBD80\uC11C\uC544\uC774\uB514\uB294\uD544\uC218\uC785\uB2C8\uB2E4
+required=부서번호는 필수 입력 항목입니다.
+typeMismatch=\uD0C0\uC785\uC774\uB2E4\uB985\uB2C8\uB2E4.
